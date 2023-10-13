@@ -4,7 +4,10 @@
 layout : home
 ---
 
-# H1
+Welcome to my new blog! -- Greeting from George Donne
+
+# Create Personal Web Page on GitHub
 something here
-## H2
+
+## step 1 -- create _config.yml
 something here...
