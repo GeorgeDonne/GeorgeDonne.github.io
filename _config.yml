@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title -- from George Donne
+title: Great New Blog Title of George Donne
 author:
-  name: Evan Will & George Donne
-  email: GeorgeDonneV2@outlook.com
+    name  : Evan Will & George Donne
+    email : GeorgeDonneV2@outlook.com
 description: "Great site about Jekyll on GH-Pages. -- from George Donne"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme : jekyll/minima

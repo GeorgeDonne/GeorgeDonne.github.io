@@ -1,7 +1,20 @@
 ---
-layout: page
-title: About Me -- George Donne
+# change layout from 'page' to 'gd-dark'
+layout     : gd-dark
+title      : About Me -- George Donne
+gd-example : gd-example value
 ---
+
+<!-- 
+site.title : 'title' in _config.yml
+site.author.name : name of author, defined in _config.yml
+page.gd-example : gd-example defined in front matter.
+-->
+
+This page describes the amazing {{ site.title }} by {{ site.author.name }}.
+{{ page.gd-example }}
+
+{% include big-cat.html %}
 
 Some Markdown content describing your site.
 
