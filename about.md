@@ -11,14 +11,14 @@ site.author.name : name of author, defined in _config.yml
 page.gd-example : gd-example defined in front matter.
 -->
 
-This page describes the amazing <{{ site.title }}> by <{{ site.author.name }}.>
+This page describes the amazing "{{ site.title }} " by " {{ site.author.name }}."
 {{ page.gd-example }}
 
 The following is a picture of tiger.
 {% include big-cat.html %}
 
 {% for animal in site.data.animals %}
-- The {{ animal.name }} is a {{ animal.size }} animal, and color is {{ animal.color }}.
+- The {{ animal.name }} is a {{ animal.size }} animal, and color is {{ animal.color }}
 {% endfor %}
 
 Some Markdown content describing your site.
