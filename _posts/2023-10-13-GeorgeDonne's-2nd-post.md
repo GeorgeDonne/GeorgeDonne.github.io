@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Steps
+title: George Donne's 2nd Jekyll Post -- Next Steps
 tags: second markdown example
 categories: demo
 ---
