@@ -12,7 +12,7 @@ page.gd-example : gd-example defined in front matter.
 -->
 
 This page describes the amazing <{{ site.title }}> by <{{ site.author.name }}.>
-<{{ page.gd-example }}>
+{{ page.gd-example }}
 
 The following is a picture of tiger.
 {% include big-cat.html %}
