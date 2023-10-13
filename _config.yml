@@ -1,1 +1,9 @@
-theme: jekyll-theme-modernist
+# Site settings
+title: Great New Blog Title -- from George Donne
+author:
+  name: Evan Will & George Donne
+  email: GeorgeDonneV2@outlook.com
+description: "Great site about Jekyll on GH-Pages. -- from George Donne"
+
+# Build settings
+remote_theme: jekyll/minima
