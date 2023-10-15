@@ -6,5 +6,5 @@ author:
 description: "Great site about Jekyll on GH-Pages. -- from George Donne"
 
 # Build settings
-# remote_theme : jekyll/minima
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme : jekyll/minima
+# remote_theme: pages-themes/leap-day@v0.2.0
